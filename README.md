@@ -4,14 +4,8 @@
 
 OnlyFlow is a free Android voice-typing app. Tap the floating OnlyFlow logo next to any text box, speak, and your words are typed for you, in any app. It runs on your own **free API key** (Gemini or Groq), so there is no subscription and no hidden cost.
 
-<p align="center">
-  <img width="120" alt="OnlyFlow screenshot 1" src="https://github.com/user-attachments/assets/b4b391c1-c9e9-48f5-b789-eb58516ba9b2" />
-  <img width="120" alt="OnlyFlow screenshot 2" src="https://github.com/user-attachments/assets/9026e7c0-d42a-4acf-815b-b586c2dd8924" />
-  <img width="120" alt="OnlyFlow screenshot 3" src="https://github.com/user-attachments/assets/0a7fc7f2-7959-408b-8d90-ed8ef26687b0" />
-  <img width="120" alt="OnlyFlow screenshot 4" src="https://github.com/user-attachments/assets/c0503af9-bf15-46f5-bd76-f19e6c32fe39" />
-  <img width="120" alt="OnlyFlow screenshot 5" src="https://github.com/user-attachments/assets/b60d1e80-dc06-4826-b100-59f5387d29f9" />
-  <img width="120" alt="OnlyFlow screenshot 6" src="https://github.com/user-attachments/assets/25658f3e-ce26-42b7-a86b-27f61313fa77" />
-</p>
+<img width="1080" height="1080" alt="photo-collage png" src="https://github.com/user-attachments/assets/594e198a-7e6c-4953-9baa-c2344f8326b3" />
+
 
 ## Download
 
